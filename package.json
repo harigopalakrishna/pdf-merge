@@ -1,6 +1,6 @@
 {
-  "name": "pdf-merge",
-  "version": "0.0.2",
+  "name": "pdf-merge-debug",
+  "version": "1.0.1",
   "description": "Merge PDF files into a single PDF document",
   "main": "index.js",
   "repository": {
